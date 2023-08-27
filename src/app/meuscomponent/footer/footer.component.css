@@ -1,0 +1,12 @@
+div{
+    background-image: url(space.jpg);
+}
+h1{
+    color: magenta;
+    margin: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+h3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color: purple;
+}
